@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parabola (2)", "Assembly-CSharp.csproj", "{194EDEE1-29CD-5304-DB3D-E5DBC8551C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parabola (2)", "Assembly-CSharp-Editor.csproj", "{368287E2-B8EA-D2F2-E555-B939DF4D556A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{194EDEE1-29CD-5304-DB3D-E5DBC8551C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194EDEE1-29CD-5304-DB3D-E5DBC8551C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194EDEE1-29CD-5304-DB3D-E5DBC8551C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194EDEE1-29CD-5304-DB3D-E5DBC8551C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368287E2-B8EA-D2F2-E555-B939DF4D556A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368287E2-B8EA-D2F2-E555-B939DF4D556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368287E2-B8EA-D2F2-E555-B939DF4D556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368287E2-B8EA-D2F2-E555-B939DF4D556A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

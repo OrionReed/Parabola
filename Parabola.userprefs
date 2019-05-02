@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3936D6BE-4012-FD93-81A5-544A10E55544}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Parabola/Code/Weapons_Dev/WeaponManager.cs">
+    <Files>
+      <File FileName="Assets/Parabola/Code/Objects/WeaponObject.cs" Line="6" Column="74" />
+      <File FileName="Assets/Parabola/Code/Weapons_Dev/WeaponManager.cs" Line="24" Column="27" />
+      <File FileName="Assets/Parabola/Code/Weapons_Dev/ActiveWeapon_Struct.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Parabola PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

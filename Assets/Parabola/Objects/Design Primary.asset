@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ac4e5747cc74d87b3bcd3be568f7aa, type: 3}
+  m_Name: Design Primary
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Size: 2
+  CasingSprite: {fileID: 21300000, guid: 18d4549ec119846a5bf0b6fd47cad12f, type: 3}
+  CasingColor: {r: 0, g: 0, b: 0, a: 1}
+  TrailMaterial: {fileID: 2100000, guid: dc7391589783d48b8951b60cc82044ee, type: 2}
+  TrailSize:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0.8
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.5682251
+      value: 0
+      inSlope: -4
+      outSlope: -4
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  ExplosionEffectPrefab: {fileID: 0}
+  DamagePlayer: 50
+  DamageArea: 10
+  HasPropulsion: 0
+  PropulsionForce: 5
+  Fuel: 10
+  HasTimer: 0
+  HasAltimiter: 1
+  DetonateAfter: 0
+  DetonationAltitude: 0
+  DetonateMaxAltitude: 0
